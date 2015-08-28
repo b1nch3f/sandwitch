@@ -1,0 +1,19 @@
+{
+    "username": "sandwitch@sangramkesariray.com", 
+    "environment": "production", 
+    "project_name": "sandwitch", 
+    "workspace": "C:/Users/sangram/Desktop/Projects/Mavensmate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "4LP4UBXWWGTU3FDZEV8QJ9M31T9O9AMZ", 
+    "metadata_container": "1dc280000007C6fAAE", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
